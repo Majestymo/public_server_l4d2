@@ -1,0 +1,13 @@
+本服为纯净服(类)，交流群：xxx    !!!加组之前请公开steam个人资料，否则一律拒绝!!!
+增加了标记插件，按z即可标记,或者控制台输入bind mouse4 "+alt2"即可绑定鼠标侧键标记。
+加强了特感，禁用绝大部分闲置操作，如换弹闲置，闲置火，2推cd
+指令(command)：
+!votemode   游戏模式
+!vote       投票
+!chmap	    投票换图（支持小图）
+!mapnext    投票下一张地图
+
+
+//En
+notice!	If u want to join mysteamgroup pls public u personal info; otherthen u will be refused!
+	qq group number 601642706;welcome to join in.

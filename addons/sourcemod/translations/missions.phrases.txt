@@ -1,0 +1,227 @@
+"Phrases"
+{
+	"L4D2C1"
+	{
+		"en"		"Dead Center"
+	}
+	"L4D2C2"
+	{
+		"en"		"Dark Carnival"
+	}
+	"L4D2C3"
+	{
+		"en"		"Swamp Fever"
+	}
+	"L4D2C4"
+	{
+		"en"		"Hard Rain"
+	}
+	"L4D2C5"
+	{
+		"en"		"The Parish"
+	}
+	"L4D2C6"
+	{
+		"en"		"The Passing"
+	}
+	"L4D2C7"
+	{
+		"en"		"The Sacrifice"
+	}
+	"L4D2C8"
+	{
+		"en"		"No Mercy"
+	}
+	"L4D2C9"
+	{
+		"en"		"Crash Course"
+	}
+	"L4D2C10"
+	{
+		"en"		"Death Toll"
+	}
+	"L4D2C11"
+	{
+		"en"		"Dead Air"
+	}
+	"L4D2C12"
+	{
+		"en"		"Blood Harvest"
+	}
+	"L4D2C13"
+	{
+		"en"		"Cold Stream"
+	}
+	"L4D2C14"
+	{
+		"en"		"The Last Stand"
+	}
+	"cavetour"
+	{
+		"en"		"cave tour"
+	}
+	"cavetour2"
+	{
+		"en"		"cave tour 2"
+	}
+	"cavetour3"
+	{
+		"en"		"cave tour 3"
+	}
+	"cavetour4"
+	{
+		"en"		"cave tour 4"
+	}
+	"cavetour5"
+	{
+		"en"		"洞穴之旅5鬼"
+	}
+	"Zengchengone"
+	{
+		"en"		"广州增城Lv7.3"
+	}
+	"LockdownChapterTwo"
+	{
+		"en"		"Lockdown: Chapter Two"
+	}
+	"City17l4d2"
+	{
+		"en"		"City 17 v3.2"
+	}
+	"urbanflight"
+	{
+		"en"		"Urban Flight"
+	}
+	"snowden"
+	{
+		"en"		"Snow Den"
+	}
+	"Dontfallexempt"
+	{
+		"en"		"Don't Fall"
+	}
+	"DamIt"
+	{
+		"en"		"Dam It [Remastered]"
+	}
+	"graveoutdoors"
+	{
+		"en"		"The Grave Outdoors"
+	}
+	"dbd2dc"
+	{
+		"en"		"Dead Before Dawn DC"
+	}
+	"WhiteForest"
+	{
+		"en"		"White Forest"
+	}
+	"DarkCarnivalRemix"
+	{
+		"en"		"Dark Carnival Remix"
+	}
+	"deathaboard"
+	{
+		"en"		"Death Aboard"
+	}
+	"whispersofwinter"
+	{
+		"en"		"Whispers of Winter"
+	}
+	"Diescraper362"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"Diescraper362VS"
+	{
+		"en"		"Diescraper Redux 3.62"
+	}
+	"SECTOR74"
+	{
+		"en"		"SECTOR74"
+	}
+	"warcelona"
+	{
+		"en"		"Warcelona"
+	}
+	"bts"
+	{
+		"en"		"Back To School"
+	}
+	"Deathcraft2v2"
+	{
+		"en"		"Deathcraft II"
+	}
+	"BuriedDeep"
+	{
+		"en"		"Buried Deep"
+	}
+	"darkwood"
+	{
+		"en"		"Dark Wood (Extended)"
+	}
+	"noechoremastered"
+	{
+		"en"		"音讯全无重制版(No Echo RE)"
+	}
+	"DevilMountain"
+	{
+		"en"		"Devil Mountain"
+	}
+	"RunToTheHills"
+	{
+		"en"		"Run To The Hills"
+	}
+	"FarewellChenming"
+	{
+		"en"		"Farewell Chenming"
+	}
+	"fallindeath"
+	{
+		"en"		"Fall in Death"
+	}
+	"heavencanwait2"
+	{
+		"en"		"Heaven Can Wait II"
+	}
+	"ihatemountains2"
+	{
+		"en"		"I Hate Mountains 2 (1.5)"
+	}
+	"SaltHellPark"
+	{
+		"en"		"SaltHell Park"
+	}
+	"VC1ub5"
+	{
+		"en"		"Vienna Calling 1"
+	}
+	"BloodProof"
+	{
+		"en"		"Blood Proof"
+	}
+	"BloodTracks"
+	{
+		"en"		"Blood Tracks"
+	}
+	"Landofoblivio"
+	{
+		"en"		"遗忘之地"
+	}
+	"suicideblitz2"
+	{
+		"en"		"Suicide Blitz 2"
+	}
+	"hauntedforest"
+	{
+		"en"		"Haunted Forest"
+	}
+	"kaoming"
+	{
+		"en"		"尻名山"
+	}
+	"fosremake"
+	{
+		"en"		"FOS_RE(生还之锋-重制版)"
+	}
+}

@@ -1,0 +1,14 @@
+"Cfgs"
+{	
+	"弹药"
+	{
+		"exec define/2xammo.cfg"
+		{
+			"message" "更多弹药"
+		}
+		"exec define/ammo.cfg"
+		{
+			"message" "初始弹药"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+"Cfgs"
+{	
+	"杂项"
+	{
+		"sm_hp"
+		{
+			"message" "生还回血"
+		}
+		"sm_forcemix"
+		{
+			"message" "随机双方队伍"
+		}
+		"sm_restartmap"
+		{
+			"message" "重启当前地图"
+		}
+	}
+}

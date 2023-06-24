@@ -1,0 +1,33 @@
+"Phrases"
+{	
+	"SpeakingList1"
+	{
+		"en"	"Disabled speaklist"
+		"zho"	"關閉語音顯示插件"
+		"chi"	"关闭语音显示插件"
+	}
+	"SpeakingList2"
+	{
+		"en"	"Enabled speaklist"
+		"zho"	"開啟語音顯示插件"
+		"chi"	"开启语音显示插件"
+	}
+	"Spectator MIC"
+	{
+		"en"	"Spectator"
+		"zho"	"旁觀"
+		"chi"	"旁观者"
+	}
+	"Survivor MIC"
+	{
+		"en"	"Survivor"
+		"zho"	"倖存者"
+		"chi"	"生还"
+	}
+	"Infected MIC"
+	{
+		"en"	"Infected"
+		"zho"	"特感"
+		"chi"	"特感"
+	}
+}

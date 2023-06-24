@@ -1,0 +1,28 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"欢迎加入服务器qq群：{GREEN}xxx{LIGHTGREEN} 寻找小伙伴一起开黑"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"如果你匹配到了服务器的{GREEN}对抗模式 {LIGHTGREEN} 记得F1准备哦"
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"使用指令{GREEN}!vote{LIGHTGREEN} 可以投票更改难度"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"喜欢本服务器的建议{GREEN}加群{LIGHTGREEN} 服务器使用动态ip开服，不加群失联可能性较大"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"终点安全门前的{GREEN}妹妹{LIGHTGREEN} 是芙渚送给大家的礼物"
+	}
+}

@@ -1,0 +1,31 @@
+"CountryShow"
+{
+	// {PLAYERNAME}: player name
+	// {STEAMID}: player STEAMID
+	// {PLAYERTIME}:player gametime
+	// {PLAYERCOUNTRY}: player country name
+	// {PLAYERCOUNTRYSHORT}: player country short name
+	// {PLAYERCOUNTRYSHORT3}: player country another short name
+	// {PLAYERCITY}: player city name
+	// {PLAYERREGION}: player region name
+	// {PLAYERIP}: player IP
+	// {PLAYERTYPE}: player is Adm or not
+	
+	// {default}: white
+	// {green}: orange
+	// {olive}: green
+	// {lightgreen}: lightgreen
+	// {red}: red
+	// {blue}: blue
+	// Warning: {lightgreen}、{red}、{blue}, 2 of 3 colors can not be used at the same sentence
+	"messages"  //display message to everyone (Non-admin)
+	{
+		"playerjoin"		"{olive}{PLAYERTYPE} {blue}玩家 {green}{PLAYERNAME}{blue}正在爬进服务器{default}. ({green}{PLAYERCOUNTRYSHORT})"
+		"playerdisc"		"{olive}{PLAYERTYPE} {red}玩家 {green}{PLAYERNAME}{red}润了{default}. ({green}{DISC_REASON}{default})"
+	}
+	"messages_admin"  //only display message to adm
+	{
+		"playerjoin"		"{blue}玩家 {green}{PLAYERNAME} {blue}正在爬进服务器{default}. ({green}{PLAYERCOUNTRYSHORT}, {PLAYERREGION}, {PLAYERCITY}{default}) IP: {green}{PLAYERIP} {olive}<ID:{STEAMID}>"
+		"playerdisc"		"{default}{red}玩家 {green}{PLAYERNAME} {red}润了{default}. ({green}{DISC_REASON}{default}) "
+	}
+}

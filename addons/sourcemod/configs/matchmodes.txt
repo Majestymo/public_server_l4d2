@@ -1,0 +1,10 @@
+"MatchModes"
+{
+	"4v4"
+	{
+		"zonemod"
+		{
+			"name" "ZoneMod v2.8.3"
+		}
+	}
+}
