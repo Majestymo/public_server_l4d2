@@ -1,6 +1,6 @@
 如何部署sourcebans，请阅读官方文档[click here](https://sbpp.github.io/docs/)
 
-如果服务器被匹配刀对抗模式自动运行zoemod v2.8.3
+如果服务器被匹配到对抗模式自动运行zonemod v2.8.3
 
 插件说明
 1.l4d_gamemode_scripts.smx
